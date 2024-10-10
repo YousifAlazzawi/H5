@@ -1,0 +1,14 @@
+.olods-table {
+    caption-side: bottom;
+    border-collapse: collapse;
+    border: 2px dashed red;
+}
+.olods-table th, .olods-table td {
+    border: 2px dashed red;
+    padding: 10px;
+}
+.olods-table caption {
+    font-weight: bold;
+    font-style: italic;
+    margin: 20px;
+}
